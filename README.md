@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Abdul Moiz  
 🎓 **Computer Science Graduate | Software Developer | NEXTJS | MERN Stack Enthusiast**  
-🚀 Passionate about building scalable web applications, solving real-world problems, and exploring cybersecurity.  
+🚀 Highly motivated Computer Science graduate with a strong foundation in coding and design principles, specializing in 
+ software development and MERN stack fundamentals. Proven ability to create responsive, user-friendly
+ interfaces and collaborate effectively within a team environment.  
 
 ---
 
