@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Abdul Moiz  
-🎓 **Computer Science Graduate | Software Developer | NEXTJS | MERN Stack Enthusiast**  
-🚀 Highly motivated Computer Science graduate with a strong foundation in coding and design principles, specializing in 
- software development and MERN stack fundamentals. Proven ability to create responsive, user-friendly
- interfaces and collaborate effectively within a team environment.  
+ # 👋 Hi, I'm Abdul Moiz  
+🎓 **Computer Science Graduate | Software Developer | Next.js & MERN Stack Enthusiast**  
+💻 Passionate about building **scalable web applications** with modern technologies like **Next.js**, **React**, and **MongoDB**, while also leveraging my background in **cybersecurity** to ensure secure and reliable systems.  
+
+I enjoy solving complex problems, creating clean and responsive UIs, and collaborating with teams to bring ideas to life.  
 
 ---
 
@@ -41,32 +41,51 @@
 ---
 
 ## 📖 About Me  
-- 🎂 Date of Birth: 03/09/2002  
-- 📍 Location: Rawalpindi, Pakistan  
-- 📧 Email: [bmoiz977@gmail.com](mailto:bmoiz977@gmail.com)  
-- 🌍 Freelance **Next.js Developer (2025 – Present)**  
-- 💼 Former **Software Developer at At-Tech (2022 – 2024)**  
+- 🎂 **Date of Birth:** 03/09/2002  
+- 📍 **Location:** Rawalpindi, Pakistan  
+- 🌍 **Freelance Software Developer (2025 – Present)**  
+- 💼 **Former Software Developer at At-Tech (2022 – 2025)**  
+- 🎓 **B.S. in Computer Science – Capital University of Science and Technology (2020 – 2024)**  
 
 ---
 
-## 📂 Projects  
+## 📂 Featured Projects  
 
-### 📌 E-Classroom  
-- Web-based **E-Learning platform** with real-time attendance, quizzes, and personalized learning.  
-- Tech: React.js, Firebase  
+Here are some of my **top projects**, showcasing my expertise in web development and modern technologies:
 
-### 📌 Airbnb Clone  
-- Full-stack MERN application with authentication, CRUD operations, and error handling.  
+### 🏨 [Airbnb Clone](https://github.com/Moiz0/AirBnb_Clone)
+A full-stack **Airbnb clone** built using the **MERN Stack** with authentication, CRUD operations, and error handling.  
+**Tech:** React.js, Node.js, Express.js, MongoDB
 
-### 📌 Simon Says Game  
-- Real-time game with dynamic UI.  
-- 🔗 [GitHub Repo](https://github.com/Moiz0/Simon-say-game)  
+---
 
-### 📌 Next.js App (2025)  
-- App Router + NextAuth.js authentication  
-- MongoDB & Mongoose  
-- ImageKit integration for secure uploads  
-- TypeScript & Bcrypt.js  
+### 💬 [WhatsX Business Platform](https://github.com/Moiz0/WhatsX-Business-Platform)
+A comprehensive platform for **WhatsApp Business management** including templates, messaging, and analytics.  
+**Tech:** Next.js, React.js, TypeScript, MongoDB
+
+---
+
+### 📹 [VidStream - Video Platform](https://github.com/Moiz0/VidStream-Next.js-Video-Platform)
+A modern **video-sharing platform** built with **Next.js (App Router)**, secure authentication, and media handling.  
+**Tech:** Next.js, MongoDB, NextAuth.js
+
+---
+
+### 🏫 [E-Classroom Project](https://github.com/Moiz0/E-Classroom-Project)
+A virtual learning management platform with **real-time attendance, quizzes, and assignments**.  
+**Tech:** React.js, Firebase
+
+---
+
+### 🎮 [Simon Says Game](https://github.com/Moiz0/Simon-say-game)
+A simple and fun Simon Says game where players track color patterns level by level.  
+**Tech:** JavaScript, HTML, CSS
+
+---
+
+### 📝 [Dynamic Forms - Next.js Application](https://github.com/Moiz0/Dynamic-Forms-Next.js-Application)
+A dynamic form builder with **MongoDB integration** and **Redux state management**.  
+**Tech:** Next.js, MongoDB, Redux Toolkit
 
 ---
 
@@ -80,10 +99,11 @@
 ---
 
 ## 🤝 Connect With Me  
-- 📧 [Email](mailto:bmoiz977@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/moiz977)  
-- 🌐 Portfolio (Coming Soon)  
+- 📧 **Email:** [bmoiz977@gmail.com](mailto:bmoiz977@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/moiz977](https://www.linkedin.com/in/moiz977)  
+- 🌐 **Portfolio:** Coming Soon  
 
 ---
 
-⭐️ *"Code with purpose. Secure with passion."*  
+⭐ *"Code with purpose. Secure with passion."*
+
