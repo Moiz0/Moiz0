@@ -6,36 +6,36 @@ I enjoy solving complex problems, creating clean and responsive UIs, and collabo
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
+
+This project is built using a modern and robust stack for high performance, scalability, and developer experience.
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
   
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux Toolkit" />
 
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
 
-  <!-- Auth & Security -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  
   <img src="https://img.shields.io/badge/NextAuth.js-000000?logo=nextdotjs&logoColor=white" alt="NextAuth.js" />
   <img src="https://img.shields.io/badge/Passport.js-34E27A?logo=passport&logoColor=black" alt="Passport.js" />
+  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?logo=firebase&logoColor=black" alt="Firebase Auth" />
   <img src="https://img.shields.io/badge/Bcrypt.js-35495E?logo=auth0&logoColor=white" alt="Bcrypt.js" />
+  <img src="https://img.shields.io/badge/Encryption-GCM-6A5ACD?logo=github&logoColor=white" alt="GCM Encryption" />
 
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" alt="Bitbucket" />
 </p>
 
 ---
